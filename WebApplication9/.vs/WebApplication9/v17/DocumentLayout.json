@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klimo\\Downloads\\WebApplication9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961F422D-3A7C-4B4D-BC19-DCB1BCD5336D}|WebApplication9\\WebApplication9.csproj|c:\\users\\klimo\\downloads\\webapplication9\\webapplication9\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961F422D-3A7C-4B4D-BC19-DCB1BCD5336D}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961F422D-3A7C-4B4D-BC19-DCB1BCD5336D}|WebApplication9\\WebApplication9.csproj|c:\\users\\klimo\\downloads\\webapplication9\\webapplication9\\webapplication9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{961F422D-3A7C-4B4D-BC19-DCB1BCD5336D}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\webapplication9.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication9",
+              "DocumentMoniker": "C:\\Users\\klimo\\Downloads\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+              "RelativeDocumentMoniker": "WebApplication9\\WebApplication9.csproj",
+              "ToolTip": "C:\\Users\\klimo\\Downloads\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+              "RelativeToolTip": "WebApplication9\\WebApplication9.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T12:25:58.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\klimo\\Downloads\\WebApplication9\\WebApplication9\\Controllers\\CatController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\CatController.cs",
+              "ToolTip": "C:\\Users\\klimo\\Downloads\\WebApplication9\\WebApplication9\\Controllers\\CatController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\CatController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:04:01.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
